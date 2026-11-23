@@ -23,6 +23,7 @@ I'm a Data Analyst with 3.5+ years of experience in product, marketing and finte
 
 ## 🚀 Projects
 
+- [**Data Analyst Roadmap 2026 · AI era**](https://github.com/muslumaghayev/data-analyst-roadmap) — a 6-month plan from zero to job-ready (SQL, Excel, Power BI, Statistics, Python + AI), in Azerbaijani and English
 - 🔜 **SQL Akademiya** — SQL learning platform with a large practice task bank
 - 🔜 **Data analytics portfolio projects** — end-to-end SQL, Python and BI case studies
 
