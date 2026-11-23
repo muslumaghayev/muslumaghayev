@@ -23,7 +23,6 @@ I'm a Data Analyst with 3.5+ years of experience in product, marketing and finte
 
 ## 🚀 Projects
 
-- [**AvtoQaza**](https://github.com/muslumaghayev/avtoqaza) — salvage car & auto parts marketplace for Azerbaijan (Next.js, TypeScript, PostgreSQL, Prisma)
 - 🔜 **SQL Akademiya** — SQL learning platform with a large practice task bank
 - 🔜 **Data analytics portfolio projects** — end-to-end SQL, Python and BI case studies
 
